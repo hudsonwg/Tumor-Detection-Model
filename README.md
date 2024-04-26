@@ -8,9 +8,9 @@
   <a href=[github-url]>
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-<h3 align="center">project_title</h3>
+<h3 align="center">Tumor Detection & Classification Network</h3>
   <p align="center">
-    project_description
+    A convolutional neural network design for detecting pituitary tumors, gliomas, and meningiomas from MRI images. In the future, this model will be expanded into a lightweight, open source oncology toolkit package for python.
     <br />
     <a href=[github-url]><strong>Explore the docs »</strong></a>
     <br />
