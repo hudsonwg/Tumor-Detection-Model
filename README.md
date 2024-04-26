@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href=[github-url]>
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 <h3 align="center">Tumor Detection & Classification Network</h3>
   <p align="center">
