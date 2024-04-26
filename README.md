@@ -8,6 +8,8 @@
   <a href=[github-url]>
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
+
+<h2 align="center">OncoPy - Lightweight Oncological Diagnosis Assist
 <h3 align="center">Tumor Detection & Classification Network</h3>
   <p align="center">
     A convolutional neural network design for detecting pituitary tumors, gliomas, and meningiomas from MRI images. In the future, this model will be expanded into a lightweight, open source oncology toolkit package for python.
